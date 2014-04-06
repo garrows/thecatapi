@@ -20,3 +20,8 @@ or
 var thecatapi = require('thecatapi');
 var cat = new thecatapi({target: 'catDivId'});
 ```
+
+Example Cat
+-----------
+
+![alt text](http://thecatapi.com/api/images/get?format=src "Example Cat")
